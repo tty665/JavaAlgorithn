@@ -2,7 +2,7 @@ import java.util.*;
 import java.util.Scanner;
 public class Solution2 {
 
-	
+	//Detect Circular Reference in Excel
 	public static int TestCase;
 	public static int N;
 	public static int L;
